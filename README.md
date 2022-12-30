@@ -1,7 +1,8 @@
 # snake_DoS!
 
 
-![DoS](https://user-images.githubusercontent.com/108688577/209839405-f99b2210-e903-4c7e-896c-f886c3dd202a.png)
 
+
+![Dos](https://user-images.githubusercontent.com/108688577/210101160-c9a5a087-2866-4355-a4ac-ae61a44671b3.png)
 
 script simples feito em python3 para DoS
